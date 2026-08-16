@@ -56,10 +56,8 @@ I build web, mobile, and IoT applications end-to-end, from designing databases a
 |---------|-------------|------|
 | **[Warehouse Management System](https://github.com/prima-aji-akbar/)** | Full-stack WMS for cold storage & truck cooling with Admin/Client roles and IoT integration. Led the team. | React, Express, PostgreSQL, ESP32 |
 | **[Bizma](https://github.com/LISP38/bizma)** | Native Android app for student entrepreneurs to promote products via an interactive campus map. | Jetpack Compose, Spring Boot, Azure |
-| **[Candidate Ranking System (NLP)]((https://github.com/dewa-group-ta/recruitment-service-module))** | Final project: ranks recruitment candidates by work-experience relevance using Sentence-BERT, with a NestJS backend integrated to a FastAPI scoring service. | NestJS, FastAPI, TypeORM, Sentence-BERT |
-| **[Solar Power Monitoring]((https://github.com/prima-aji-akbar/smarthome-monitoring-plts))** | Web app for remote monitoring & control of an off-grid rooftop solar power system. | Express.js, Firebase, IoT |
-
-> Replace each `REPO_NAME` above with the actual repository name once you've uploaded that project.
+| **[Candidate Ranking System (NLP)](https://github.com/dewa-group-ta/recruitment-service-module)** | Final project: ranks recruitment candidates by work-experience relevance using Sentence-BERT, with a NestJS backend integrated to a FastAPI scoring service. | NestJS, FastAPI, TypeORM, Sentence-BERT |
+| **[Solar Power Monitoring](https://github.com/prima-aji-akbar/smarthome-monitoring-plts)** | Web app for remote monitoring & control of an off-grid rooftop solar power system. | Express.js, Firebase, IoT |
 
 ---
 
@@ -69,11 +67,3 @@ I build web, mobile, and IoT applications end-to-end, from designing databases a
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prima.nf12@gmail.com)
 
 ---
-
-## 📊 GitHub Stats
-
-![Prima's GitHub stats](https://github-readme-stats.vercel.app/api?username=prima-aji-akbar&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prima-aji-akbar&layout=compact&theme=default)
-
-> If these badges don't load, double-check that `prima-aji-akbar` is exactly your GitHub username (case-sensitive), and that this profile repository is named identically to your username.
