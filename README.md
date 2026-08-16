@@ -47,6 +47,7 @@ I build web, mobile, and IoT applications end-to-end, from designing databases a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws)
 
 ---
 
